@@ -1,0 +1,28 @@
+# Environment variables (API Keys & Secrets)
+.env
+
+# Virtual environments
+.venv/
+.venv*/
+env/
+venv/
+ENV/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Evaluation results & exports
+*.csv
+evaluation_results.csv
+*.pdf
+
+# Streamlit logs
+.streamlit/
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
